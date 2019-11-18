@@ -6,7 +6,7 @@
 
 void main()
 {
-	char sayHello[]="Hello World";
+	char sayHello[10]="Hello World";
 	print ("%s\n", sayHello);
 	return;
 }
